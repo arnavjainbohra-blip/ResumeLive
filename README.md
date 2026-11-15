@@ -6,11 +6,9 @@ A simple, responsive, single-page resume website made with HTML and CSS for the 
 
 ```text
 arnav-resume-website/
-├── index.html
-├── css/
-│   └── style.css
-├── assets/
-│   └── Arnav-Jain-Resume.pdf
+├── index.html-
+├── style.css
+├── Arnav-Jain-Resume.pdf
 └── README.md
 ```
 
